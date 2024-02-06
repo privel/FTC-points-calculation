@@ -1,0 +1,20 @@
+{
+  "item":[
+    {
+      "id": 1,
+      "auto": 12,
+      "backdropAuto": 2,
+      "backstageAuto": 0,
+      "navigationAuto": 0,
+      "randomizationAuto": 0,
+      "driverControlled": 0,
+      "backdropDrive": 0,
+      "backstageDrive": 0,
+      "mosaicDrive": 0,
+      "setBonusDrive": 0,
+      "endGame": 0,
+      "location": 0,
+      "dronePoints": 0
+    }
+  ]
+}
